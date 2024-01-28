@@ -123,6 +123,3 @@ Act on your findings and prepare the deliverables requested by Moreno.
 
 **Deliverable:**
 - Your top three recommendations based on your analysis
-
-## Wrap-up
-Congratulations on finishing the Cyclistic bike-share case study! Use the experience to grow your portfolio or embark on a new project following the Ask, Prepare, Process, Analyze, Share, and Act Case Study Roadmap. Best of luck on your job search!
