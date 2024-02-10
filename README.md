@@ -21,105 +21,20 @@ Three key questions guide the marketing program:
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
-### Deliverables
-1. A clear statement of the business task
-2. Description of data sources
-3. Documentation of data cleaning/manipulation
-4. Summary of analysis
-5. Supporting visualizations and key findings
-6. Top three recommendations based on analysis
-
-### Case Study Roadmap - Ask
-**Guiding questions:**
-- What is the problem you are trying to solve?
-- How can your insights drive business decisions?
-
-**Key tasks:**
-- Identify the business task
-- Consider key stakeholders
-
-**Deliverable:**
-- A clear statement of the business task
-
 ## Prepare
 Utilize Cyclistic’s historical trip data for analysis. Download the data for the previous 12 months, ensuring compliance with privacy regulations.
-
-### Case Study Roadmap - Prepare
-**Guiding questions:**
-- Where is your data located?
-- How is the data organized?
-- Are there issues with bias or credibility in this data? Does your data ROCCC?
-
-**Key tasks:**
-- Download data and store it appropriately.
-- Identify how it’s organized.
-- Sort and filter the data.
-- Determine the credibility of the data.
-
-**Deliverable:**
-- Description of all data sources used
 
 ## Process
 Process the data for analysis, ensuring integrity and cleanliness.
 
-### Case Study Roadmap - Process
-**Guiding questions:**
-- What tools are you choosing and why?
-- Have you ensured your data’s integrity?
-
-**Key tasks:**
-- Check the data for errors.
-- Choose your tools.
-- Transform the data for effective analysis.
-- Document the cleaning process.
-
-**Deliverable:**
-- Documentation of any cleaning or manipulation of data
-
 ## Analyze
 Organize and analyze the prepared data.
-
-### Case Study Roadmap - Analyze
-**Guiding questions:**
-- How should you organize your data for analysis?
-- What trends or relationships did you find in the data?
-
-**Key tasks:**
-- Aggregate and format the data.
-- Perform calculations.
-- Identify trends and relationships.
-
-**Deliverable:**
-- Summary of your analysis
 
 ## Share
 Create visualizations to effectively communicate findings.
 
-### Case Study Roadmap - Share
-**Guiding questions:**
-- What story does your data tell?
-- Can data visualization help you share your findings?
-
-**Key tasks:**
-- Determine the best way to share findings.
-- Create effective data visualizations.
-- Present your findings.
-
-**Deliverable:**
-- Supporting visualizations and key findings
-
 ## Act
 Act on your findings and prepare the deliverables requested by Moreno.
 
-### Case Study Roadmap - Act
-**Guiding questions:**
-- What is your final conclusion based on your analysis?
-- What next steps would you or your stakeholders take based on your findings?
+**For a recording of my presentation, click [here](https://www.canva.com/design/DAF7fPhzCag/lCWsPbcqcMqhndn3K6qhZQ/view?utm_content=DAF7fPhzCag&utm_campaign=designshare&utm_medium=link&utm_source=recording_view).**
 
-**Key tasks:**
-- Create your portfolio.
-- Add your case study.
-- Practice presenting your case study.
-
-**Deliverable:**
-- Your top three recommendations based on your analysis
